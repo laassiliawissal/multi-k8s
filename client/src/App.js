@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            deploy react app on kubernetes
+            deploy react app up to kubernetes
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
